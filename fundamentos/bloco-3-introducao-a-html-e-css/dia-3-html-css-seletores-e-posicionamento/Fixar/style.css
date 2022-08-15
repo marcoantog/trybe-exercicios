@@ -1,0 +1,45 @@
+.impar { background-color: yellow;
+    text-transform: uppercase;
+}
+
+.par { background-color: yellow;
+    color: green;
+}
+
+li {font-size: 20px;
+}
+
+li em {font-weight: bold;
+}
+
+h1, h2, h3 { color: red;
+}
+
+h1 em { border: 1px solid black;
+}
+
+.primeiras { color: blue;
+}
+
+#java { background-color: pink;
+}
+
+.link1:hover { font-weight: bold;
+    color: orange;
+}
+
+.link2:hover { font-weight: bold;  
+    color: green;
+}
+
+.link3:hover { font-weight: bold;
+    color: black;
+}
+
+.link4:hover { font-weight: bold;
+    color: yellow;
+}
+
+.link5:hover { font-weight: bold;
+    color: green;
+}
